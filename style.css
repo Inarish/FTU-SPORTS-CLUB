@@ -71,11 +71,6 @@ body{
     transition: background 0.5s;
     cursor: pointer;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
-.countdown-container{
-    display: flex;
-}
 h1.countdowntitle{
     position: relative;
     text-align: center;
