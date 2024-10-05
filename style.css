@@ -1,10 +1,13 @@
 
 
-@media screen and (min-width:1000px)
+@media screen and (min-width:1024px)
 {
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
 .countdown-container{
     display: flex;
+}
+.errorformb{
+    visibility: collapse;
 }
 body{
     margin-left:0rem;
@@ -461,8 +464,6 @@ h1.countdowntitle{
 
 @media screen and (max-width:1024px)
 {
-.body{
-    }
 .errorformb{
     color:black;
     text-align: center;
